@@ -4,6 +4,8 @@ import { invertBackground } from '../../fields/invertBackground'
 import link from '../../fields/link'
 import richText from '../../fields/richText'
 
+// test
+
 const columnFields: Field[] = [
   {
     name: 'size',
